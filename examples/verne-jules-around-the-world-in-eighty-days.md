@@ -1,4 +1,4 @@
-# Front Matter for *Around the World in Eighty Days* by Jules Verne
+# *Around the World in Eighty Days* by Jules Verne
 
 ## Why This Book Is Worth Reading
 

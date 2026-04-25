@@ -9,7 +9,7 @@ description: Generates scholarly front matter for a named book — orientation m
 
 Scholarly front matter for a single named book, written for a reader who has not yet started it. The model is the contextual material found in high-quality hardcover editions of classics — the stuff you read before chapter one, designed to load you up with context the original audience had for free.
 
-A complete worked example is in `examples/around-the-world-in-eighty-days.md`. Read it before writing your own. The example sets the bar for tone, depth, and the texture of the prose — match it.
+Worked examples are in the `examples/` directory. Read at least one before writing your own. They set the bar for tone, depth, and the texture of the prose — match them.
 
 ## The single hardest constraint: no spoilers
 
@@ -39,6 +39,18 @@ Cite sources with the standard citation tags for facts pulled from search result
 ## Output format
 
 Markdown only. Use `##` for section headers and `---` (a horizontal rule) between sections. Sections in this exact order, with the skipping rules below.
+
+### Document title (H1)
+
+The document opens with a single `#` heading: the book title in italics, followed by `by [Author Name]`. Nothing else. No "Front Matter for...", no "A Reader's Companion to...", no jargon. The reader does not need to be told what they're looking at; they need to be oriented to the book.
+
+```
+# *Around the World in Eighty Days* by Jules Verne
+```
+
+```
+# *The Alchemist* by Paulo Coelho
+```
 
 ### 1. Why This Book Is Worth Reading
 
@@ -112,6 +124,12 @@ This section is texture, not plot. Describe how the book was received, what the 
 
 Never replace a skipped section with filler. A shorter, accurate companion is better than a padded one.
 
-## Reference
+## Reference Examples
 
-`examples/around-the-world-in-eighty-days.md` — complete worked example. Read it before drafting. It sets the calibration for length, density, prose style, table formatting, and the exact way to handle the "Then and Now" essay.
+Two complete worked examples are in the `examples/` directory. Read at least one before drafting — they set the calibration for length, density, prose style, and table formatting. Read both if the book in question is unusual (translated, contested, late-discovered, etc.).
+
+- **`examples/verne-jules-around-the-world-in-eighty-days.md`** — the canonical case. An English-language reader's classic (originally French), with notable original illustrations, a sharply defined original publication moment, and a clear example of pushing back on a misleading posthumous label ("father of science fiction"). Use this to calibrate the standard structure with all five sections present.
+
+- **`examples/coelho-paulo-the-alchemist.md`** — the harder cases. Demonstrates: (1) skipping the illustrations section entirely, (2) handling a book whose meaningful reception window is not its original publication year (the 1988 first edition flopped; the relevant "then" is 1988–1995), (3) writing about a contested or critically-dismissed book without either fawning or sneering, and (4) handling a living author whose chronology runs to the present. The translation subsection is also unusually short here because there is essentially one English translation — model for not padding.
+
+Example filenames follow the convention `lastname-firstname-title-slug.md`. Future examples added to this directory should match.
