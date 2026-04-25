@@ -18,7 +18,7 @@ No spoilers. Evidence-based. Cites sources.
 
 ## Example Output
 
-[Link to your Around the World in Eighty Days example — either inline or as a separate file]
+See [*Around the World in Eighty Days* by Jules Verne](examples/verne-jules-around-the-world-in-eighty-days.md) for a complete worked example.
 
 ## Installation
 
