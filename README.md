@@ -6,13 +6,14 @@ Perfect for first-time readers who want historical context, author chronology, r
 
 ## What It Does
 
-Generates five sections for any book you name:
+Generates up to seven sections for any book you name:
 
-1. **Why This Book Is Worth Reading** — what's lasted and why
-2. **Chronology of the Author's Life and Times** — parallel columns tracking biography alongside world events
-3. **Select Bibliography** — major works and recommended translations
-4. **A Note on the Illustrations** — links to original plates and engravings
-5. **Then and Now** — how the book was read in its own time vs. today
+1. **Why This Book Is Worth Reading (or might not be)** — the honest case for and against, plus cultural impact if the book left a notable trace
+2. **Then and Now** — how the book was read at first publication vs. today; what the original audience had for free that modern readers have to reconstruct
+3. **Writing the Book** *(optional)* — where, when, and under what conditions the author wrote it, when those circumstances visibly shaped the work
+4. **Chronology of the Author's Life and Times** — parallel columns tracking biography alongside world events
+5. **Select Bibliography** — major works and recommended translations for non-English originals
+6. **A Note on the Illustrations** *(optional)* — inline original plates and engravings, when they were part of the book's first presentation
 
 No spoilers. Evidence-based. Cites sources.
 
