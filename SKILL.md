@@ -62,7 +62,32 @@ Two to four paragraphs structured as follows:
 
 **Cultural impact** (subsection `###`). Skip this subsection if the book left no notable trace outside itself. Include it when the book demonstrably changed something: coined a word or phrase now in common use, inspired a direct real-world response (a journey undertaken, a law passed, a scientific program launched), produced a widely-seen adaptation that shaped how the story is now remembered, or established a narrative form that spawned a recognizable genre. Be specific — name the film, the journalist, the phrase — and explain the mechanism of influence, not just the fact of it. Two to three paragraphs maximum.
 
-### 2. Chronology of the Author's Life and Times
+### 2. Then and Now: How This Book Was Read in [Original Publication Year]
+
+A multi-paragraph essay on what the original audience brought to the book that modern readers don't, and what's now invisible. This is the section that does the most work — it's where the reader gets the perceptual recalibration that the previous sections set up.
+
+Cover the following where applicable (skip what doesn't apply, don't force all four):
+
+- **Political and national context of first publication.** What mood was the country in when this book landed? What recent events would have colored every page? (Verne's France in 1872, post-Franco-Prussian War, post-Commune, is a textbook case.)
+- **Technological or social context that made the premise feel current.** Many books that now read as fantasy or period piece were, at first publication, journalism about the just-now-possible. Recover that.
+- **Colonial, racial, or ideological assumptions of the original readership.** Don't moralize; describe. The original reader took for granted things the modern reader has to do interpretive work to see.
+- **Genre or marketing context that has shifted.** Books get reclassified. Verne is read today as the "father of science fiction," a label imposed posthumously by Hugo Gernsback that distorts a body of work that contained almost no science fiction at all. When a modern label misleads, say so plainly.
+
+This section is texture, not plot. Describe how the book was received, what the original audience expected from it, and what they would have noticed that we miss. Do not describe what happens.
+
+### 3. Writing the Book
+
+**Skip this section entirely if the circumstances of composition do not show strong, specific influence on the book's content, tone, or context.** Most books don't need it — a comfortable author writing in normal conditions adds nothing here. Include it only when the where, when, and what of writing visibly shaped what ended up on the page: a specific location whose atmosphere runs through the prose, a period of personal crisis whose pressure is audible in the sentences, a race against illness or deadline that explains the book's intensity or incompleteness.
+
+When the section applies, cover in two to four paragraphs:
+
+- **Where and when.** The physical location and period of composition — specific enough to be visualized, not just "he wrote it in Paris in the 1870s."
+- **What the author's life looked like.** What else was happening: health, relationships, finances, other work, political circumstances bearing directly on the author at that moment. Only what's relevant to the book — not a reprise of the full chronology.
+- **The connection to the book.** Make the link explicit. Don't leave the reader to infer it; say what the conditions produced: the bleakness, the speed, the optimism, the gaps, the obsessive detail. This is the sentence the section exists to deliver.
+
+Do not use this section to repeat material already covered in the chronology or "Then and Now." If the political context of composition belongs in "Then and Now," put it there. This section is specifically about the author's personal circumstances during the act of writing.
+
+### 4. Chronology of the Author's Life and Times
 
 A three-column markdown table with columns: `Year`, `[Author's Name]'s Life`, `The World`. Track the author's biographical milestones (birth, schooling, major publications, marriages, key relationships, death) in parallel with contemporaneous historical, literary, scientific, and cultural events.
 
@@ -79,19 +104,7 @@ Format:
 
 Don't overload world-events cells. Two or three items per row, separated by semicolons, is the right density.
 
-### 3. Writing the Book
-
-**Skip this section entirely if the circumstances of composition do not show strong, specific influence on the book's content, tone, or context.** Most books don't need it — a comfortable author writing in normal conditions adds nothing here. Include it only when the where, when, and what of writing visibly shaped what ended up on the page: a specific location whose atmosphere runs through the prose, a period of personal crisis whose pressure is audible in the sentences, a race against illness or deadline that explains the book's intensity or incompleteness.
-
-When the section applies, cover in two to four paragraphs:
-
-- **Where and when.** The physical location and period of composition — specific enough to be visualized, not just "he wrote it in Paris in the 1870s."
-- **What the author's life looked like.** What else was happening: health, relationships, finances, other work, political circumstances bearing directly on the author at that moment. Only what's relevant to the book — not a reprise of the full chronology.
-- **The connection to the book.** Make the link explicit. Don't leave the reader to infer it; say what the conditions produced: the bleakness, the speed, the optimism, the gaps, the obsessive detail. This is the sentence the section exists to deliver.
-
-Do not use this section to repeat material already covered in the chronology or "Then and Now." If the political context of composition belongs in "Then and Now," put it there. This section is specifically about the author's personal circumstances during the act of writing.
-
-### 4. Select Bibliography
+### 5. Select Bibliography
 
 Two subsections:
 
@@ -105,7 +118,7 @@ Only if the book is in translation. Bulleted list with brief notes on which to p
 
 Skip this subsection entirely if the book was written in English.
 
-### 5. A Note on the Illustrations
+### 6. A Note on the Illustrations
 
 Two or three sentences naming the original illustrator(s) and the edition that first contained them. Then embed a small selection (two to four) of the original illustrations inline using markdown image syntax, sourcing direct image file URLs from public-domain archives. Preferred archives, in rough order of preference: Wikimedia Commons (use the direct `https://upload.wikimedia.org/...` file URL, not the page URL), Project Gutenberg, Bibliothèque nationale de France's Gallica, the Internet Archive, the British Library's digital collections.
 
@@ -116,19 +129,6 @@ Two or three sentences naming the original illustrator(s) and the edition that f
 Include a caption (the `alt` text) for each image that identifies the scene or subject. Do not describe the images in prose — let them speak for themselves. After the inline images, add a single line linking to the full archive for readers who want to browse the complete set.
 
 **Skip this section entirely if the book had no notable original illustrations.** Most modern novels don't. Don't pad with cover art or later illustrated editions — this section is specifically about illustrations that were part of the book's original presentation.
-
-### 6. Then and Now: How This Book Was Read in [Original Publication Year]
-
-A multi-paragraph essay on what the original audience brought to the book that modern readers don't, and what's now invisible. This is the section that does the most work — it's where the reader gets the perceptual recalibration that the previous sections set up.
-
-Cover the following where applicable (skip what doesn't apply, don't force all four):
-
-- **Political and national context of first publication.** What mood was the country in when this book landed? What recent events would have colored every page? (Verne's France in 1872, post-Franco-Prussian War, post-Commune, is a textbook case.)
-- **Technological or social context that made the premise feel current.** Many books that now read as fantasy or period piece were, at first publication, journalism about the just-now-possible. Recover that.
-- **Colonial, racial, or ideological assumptions of the original readership.** Don't moralize; describe. The original reader took for granted things the modern reader has to do interpretive work to see.
-- **Genre or marketing context that has shifted.** Books get reclassified. Verne is read today as the "father of science fiction," a label imposed posthumously by Hugo Gernsback that distorts a body of work that contained almost no science fiction at all. When a modern label misleads, say so plainly.
-
-This section is texture, not plot. Describe how the book was received, what the original audience expected from it, and what they would have noticed that we miss. Do not describe what happens.
 
 ## Tone and style
 
