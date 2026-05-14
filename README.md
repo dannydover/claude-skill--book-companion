@@ -8,8 +8,8 @@ Generates up to seven sections for any book you name:
 
 1. **At a Glance** — length, structure, difficulty, and pacing advice, so you know what you're committing to before you start
 2. **Why This Book Is Worth Reading (or might not be)** — the honest case for and against, plus cultural impact if the book left a notable trace
-3. **Then and Now** — how the book was read at first publication vs. today; what the original audience had for free that modern readers have to reconstruct
-4. **Writing the Book** *(optional)* — where, when, and under what conditions the author wrote it, when those circumstances visibly shaped the work
+3. **Reading This Then and Now** — how the book was read at first publication vs. today; what the original audience had for free that modern readers have to reconstruct
+4. **The Author While Writing the Book** *(optional)* — where, when, and under what conditions the author wrote it, when those circumstances visibly shaped the work
 5. **Chronology of the Author's Life and Times** — parallel columns tracking biography alongside world events
 6. **Select Bibliography** — major works and recommended translations for non-English originals
 7. **A Note on the Illustrations** *(optional)* — inline original plates and engravings, when they were part of the book's first presentation
@@ -20,9 +20,9 @@ No spoilers. Evidence-based. Cites sources.
 
 Three complete worked examples in the `examples/` directory:
 
-- [*The Great Gatsby* by F. Scott Fitzgerald](examples/fitzgerald-f-scott-the-great-gatsby.md) — an English-language American canonical, no translation question, illustrations section skipped
-- [*Around the World in Eighty Days* by Jules Verne](examples/verne-jules-around-the-world-in-eighty-days.md) — a French novel read in English, with notable original illustrations and a misleading posthumous label worth pushing back on
-- [*The Alchemist* by Paulo Coelho](examples/coelho-paulo-the-alchemist.md) — a critically-dismissed contemporary bestseller, originally Portuguese, with a flopped first edition whose meaningful reception window came years later
+- [*The Great Gatsby* by F. Scott Fitzgerald](examples/fitzgerald-f-scott-the-great-gatsby.md)
+- [*Around the World in Eighty Days* by Jules Verne](examples/verne-jules-around-the-world-in-eighty-days.md)
+- [*The Alchemist* by Paulo Coelho](examples/coelho-paulo-the-alchemist.md)
 
 ## Installation
 
