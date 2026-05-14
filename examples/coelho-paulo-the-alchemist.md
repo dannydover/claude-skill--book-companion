@@ -1,4 +1,4 @@
-# *The Alchemist* by Paulo Coelho
+# *The Alchemist* by Paulo Coelho — originally in Portuguese
 
 ## Why This Book Is Worth Reading (or might not be)
 

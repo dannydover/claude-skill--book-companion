@@ -1,4 +1,4 @@
-# *Around the World in Eighty Days* by Jules Verne
+# *Around the World in Eighty Days* by Jules Verne — originally in French
 
 ## Why This Book Is Worth Reading (or might not be)
 

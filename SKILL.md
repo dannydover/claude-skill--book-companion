@@ -42,14 +42,14 @@ Markdown only. Use `##` for section headers and `---` (a horizontal rule) betwee
 
 ### Document title (H1)
 
-The document opens with a single `#` heading: the book title in italics, followed by `by [Author Name]`. Nothing else. No "Front Matter for...", no "A Reader's Companion to...", no jargon. The reader does not need to be told what they're looking at; they need to be oriented to the book.
+The document opens with a single `#` heading: the book title in italics, followed by `by [Author Name]`, followed by `— originally in [Language]`. Nothing else. No "Front Matter for...", no "A Reader's Companion to...", no jargon. The reader does not need to be told what they're looking at; they need to be oriented to the book.
 
 ```
-# *Around the World in Eighty Days* by Jules Verne
+# *Around the World in Eighty Days* by Jules Verne — originally in French
 ```
 
 ```
-# *The Alchemist* by Paulo Coelho
+# *The Alchemist* by Paulo Coelho — originally in Portuguese
 ```
 
 ### 1. Why This Book Is Worth Reading (or might not be)
