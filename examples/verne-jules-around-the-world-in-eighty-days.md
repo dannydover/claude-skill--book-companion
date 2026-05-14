@@ -72,11 +72,15 @@ The historical translation problem is significant: most editions of Verne sold i
 
 The illustrated French edition appeared later in 1873 as the 11th volume in Verne's *Voyages Extraordinaires* series, with illustrations by Alphonse de Neuville and Léon Benett. The illustrated US edition that same year contained fifty-four plates by the same pair. Cheap modern paperbacks routinely omit them. They are part of the work's original presentation and worth seeing.
 
-The complete set of original 1873 engravings, freely viewable:
+A selection of the original 1873 engravings:
 
-- Project Gutenberg illustrated edition: https://www.gutenberg.org/files/103/103-h/103-h.htm
-- Wikimedia Commons (full plate gallery): https://commons.wikimedia.org/wiki/Category:Le_Tour_du_monde_en_quatre-vingts_jours
-- Bibliothèque nationale de France (Gallica), high-resolution scans of the Hetzel edition: https://gallica.bnf.fr/ark:/12148/bpt6k77418d
+![Frontispiece: Phileas Fogg](https://upload.wikimedia.org/wikipedia/commons/0/05/%27Around_the_World_in_Eighty_Days%27_by_Neuville_and_Benett_04.jpg)
+
+![Jean Passepartout, from page 31 of the 1873 Hetzel edition](https://upload.wikimedia.org/wikipedia/commons/c/c7/Around_the_World_in_Eighty_Days_%281873%29_2.png)
+
+![Illustration by Neuville and Benett, 1873](https://upload.wikimedia.org/wikipedia/commons/d/d7/%27Around_the_World_in_Eighty_Days%27_by_Neuville_and_Benett_01.jpg)
+
+The complete set of fifty-four plates is freely viewable at the [Wikimedia Commons gallery](https://commons.wikimedia.org/wiki/Category:Around_the_World_in_Eighty_Days) and in high-resolution scans of the Hetzel edition at [Gallica (BnF)](https://gallica.bnf.fr/ark:/12148/bpt6k77418d).
 
 ---
 
