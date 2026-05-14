@@ -51,6 +51,16 @@ The title itself passed into the language. "Around the world in X days" is now a
 
 ---
 
+## Writing the Book
+
+Verne wrote *Around the World in Eighty Days* in Paris in 1872, under conditions that make its relentless optimism stranger and more deliberate than it looks. France had just emerged from the most traumatic eighteen months in its modern history: the Franco-Prussian War of 1870–71 had ended in humiliating defeat, the loss of Alsace-Lorraine, and a five-billion-franc indemnity; the Paris Commune had followed immediately, a civil war fought in the streets of the city that left thousands dead and much of central Paris in ruins. Verne himself had relocated his family to Amiens in 1871, partly to escape the chaos. The France in which he sat down to write a novel about a punctual English gentleman outpacing the globe was a country that had recently watched its capital burn.
+
+The novel was written for serialization in the Paris daily *Le Temps*, beginning on 6 November 1872, which meant Verne was writing ahead of publication in real time, with readers following each installment as it appeared. The deadline pressure was structural: the plot's ticking clock was also the author's. His publisher Pierre-Jules Hetzel, who had shaped every *Voyages Extraordinaires* book since *Five Weeks in a Balloon*, pressed Verne hard on pace, and the novel shows it — there is almost no fat on any chapter, and the momentum never lets up. Verne reportedly amused himself and friends by insisting that Fogg would make it in time; according to some accounts, bets were placed.
+
+The connection to the book is audible in retrospect. A country that had just experienced the total failure of its military and administrative machinery — trains commandeered, timetables destroyed, the infrastructure of modern France turned to rubble — was handed a novel in which the machinery works, the timetables hold, and a man who trusts the system completely is vindicated. Whether Verne intended that consolation or simply wrote the book that interested him, the timing gave it an undertone that the first readers would have felt without necessarily naming.
+
+---
+
 ## Select Bibliography
 
 ### Major Works by Verne (selection from the *Voyages Extraordinaires*)

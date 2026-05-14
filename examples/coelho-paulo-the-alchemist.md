@@ -42,6 +42,14 @@ The book also seeded a specific strain of self-help vocabulary. The phrase "Pers
 
 ---
 
+## Writing the Book
+
+Coelho wrote *The Alchemist* in approximately two weeks in 1987, in Rio de Janeiro, less than a year after completing his walk along the Camino de Santiago. He has described the composition as a state of concentrated flow — the book arriving nearly complete rather than being constructed — and dated both its speed and its content directly to the Camino experience. The walk had taken him through northern Spain on a route followed by Catholic pilgrims for centuries, and it had led him to join an esoteric Catholic order (RAM, the Regnum Agnus Mundi) whose symbolic and alchemical vocabulary runs throughout the novel. He was thirty-nine years old, still primarily known as a songwriter rather than a novelist, and had published only one previous book — *The Pilgrimage*, his autobiographical account of the Camino itself — which had sold respectably but had not made him famous.
+
+The speed of composition matters to how the book reads. *The Alchemist* has the coherence and compression of something written in a single sustained state of mind, not revised toward smoothness over years. Its argument — that following one's deepest desire is not selfish but cosmically correct — is not a position Coelho arrived at through deliberation; it is the direct deposit of a specific experience, still warm. Readers who find the book's certainty irritating are reacting, in part, to this: it is a book written by someone who recently felt convinced, not by someone thinking the question through. Readers who find it clarifying are responding to the same quality from the other direction.
+
+---
+
 ## Select Bibliography
 
 ### Major Works by Coelho

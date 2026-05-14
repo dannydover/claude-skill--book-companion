@@ -79,7 +79,19 @@ Format:
 
 Don't overload world-events cells. Two or three items per row, separated by semicolons, is the right density.
 
-### 3. Select Bibliography
+### 3. Writing the Book
+
+**Skip this section entirely if the circumstances of composition do not show strong, specific influence on the book's content, tone, or context.** Most books don't need it — a comfortable author writing in normal conditions adds nothing here. Include it only when the where, when, and what of writing visibly shaped what ended up on the page: a specific location whose atmosphere runs through the prose, a period of personal crisis whose pressure is audible in the sentences, a race against illness or deadline that explains the book's intensity or incompleteness.
+
+When the section applies, cover in two to four paragraphs:
+
+- **Where and when.** The physical location and period of composition — specific enough to be visualized, not just "he wrote it in Paris in the 1870s."
+- **What the author's life looked like.** What else was happening: health, relationships, finances, other work, political circumstances bearing directly on the author at that moment. Only what's relevant to the book — not a reprise of the full chronology.
+- **The connection to the book.** Make the link explicit. Don't leave the reader to infer it; say what the conditions produced: the bleakness, the speed, the optimism, the gaps, the obsessive detail. This is the sentence the section exists to deliver.
+
+Do not use this section to repeat material already covered in the chronology or "Then and Now." If the political context of composition belongs in "Then and Now," put it there. This section is specifically about the author's personal circumstances during the act of writing.
+
+### 4. Select Bibliography
 
 Two subsections:
 
@@ -93,7 +105,7 @@ Only if the book is in translation. Bulleted list with brief notes on which to p
 
 Skip this subsection entirely if the book was written in English.
 
-### 4. A Note on the Illustrations
+### 5. A Note on the Illustrations
 
 Two or three sentences naming the original illustrator(s) and the edition that first contained them. Then embed a small selection (two to four) of the original illustrations inline using markdown image syntax, sourcing direct image file URLs from public-domain archives. Preferred archives, in rough order of preference: Wikimedia Commons (use the direct `https://upload.wikimedia.org/...` file URL, not the page URL), Project Gutenberg, Bibliothèque nationale de France's Gallica, the Internet Archive, the British Library's digital collections.
 
@@ -105,7 +117,7 @@ Include a caption (the `alt` text) for each image that identifies the scene or s
 
 **Skip this section entirely if the book had no notable original illustrations.** Most modern novels don't. Don't pad with cover art or later illustrated editions — this section is specifically about illustrations that were part of the book's original presentation.
 
-### 5. Then and Now: How This Book Was Read in [Original Publication Year]
+### 6. Then and Now: How This Book Was Read in [Original Publication Year]
 
 A multi-paragraph essay on what the original audience brought to the book that modern readers don't, and what's now invisible. This is the section that does the most work — it's where the reader gets the perceptual recalibration that the previous sections set up.
 
@@ -129,6 +141,7 @@ This section is texture, not plot. Describe how the book was received, what the 
 ## Section-skipping rules
 
 - "Cultural Impact" subsection → skip if the book left no notable trace outside itself (no widely-used phrase coined, no significant adaptation, no direct real-world response, no genre it founded)
+- "Writing the Book" → skip if the circumstances of composition do not show strong, specific influence on the book's content, tone, or context
 - "A Note on the Illustrations" → skip if the book had no notable original illustrations
 - "Recommended English Translations" subsection → skip if the book was originally written in English
 - Within "Then and Now" → skip any of the four sub-topics that don't apply
@@ -139,8 +152,8 @@ Never replace a skipped section with filler. A shorter, accurate companion is be
 
 Two complete worked examples are in the `examples/` directory. Read at least one before drafting — they set the calibration for length, density, prose style, and table formatting. Read both if the book in question is unusual (translated, contested, late-discovered, etc.).
 
-- **`examples/verne-jules-around-the-world-in-eighty-days.md`** — the canonical case. An English-language reader's classic (originally French), with notable original illustrations, a sharply defined original publication moment, a clear example of pushing back on a misleading posthumous label ("father of science fiction"), and a strong Cultural Impact subsection (Nellie Bly, the 1956 film, the title entering the language). Use this to calibrate the standard structure with all sections present.
+- **`examples/verne-jules-around-the-world-in-eighty-days.md`** — the canonical case. An English-language reader's classic (originally French), with notable original illustrations, a sharply defined original publication moment, a clear example of pushing back on a misleading posthumous label ("father of science fiction"), a strong Cultural Impact subsection (Nellie Bly, the 1956 film, the title entering the language), and a Writing the Book section that connects post-Commune France to the novel's conspicuous optimism. Use this to calibrate the standard structure with all sections present.
 
-- **`examples/coelho-paulo-the-alchemist.md`** — the harder cases. Demonstrates: (1) skipping the illustrations section entirely, (2) handling a book whose meaningful reception window is not its original publication year (the 1988 first edition flopped; the relevant "then" is 1988–1995), (3) writing about a contested or critically-dismissed book without either fawning or sneering, and (4) handling a living author whose chronology runs to the present. The translation subsection is also unusually short here because there is essentially one English translation — model for not padding.
+- **`examples/coelho-paulo-the-alchemist.md`** — the harder cases. Demonstrates: (1) skipping the illustrations section entirely, (2) handling a book whose meaningful reception window is not its original publication year (the 1988 first edition flopped; the relevant "then" is 1988–1995), (3) writing about a contested or critically-dismissed book without either fawning or sneering, (4) handling a living author whose chronology runs to the present, and (5) a Writing the Book section for a novel composed in a concentrated two-week burst — model for when speed and emotional state of composition are the relevant facts. The translation subsection is also unusually short here because there is essentially one English translation — model for not padding.
 
 Example filenames follow the convention `lastname-firstname-title-slug.md`. Future examples added to this directory should match.
