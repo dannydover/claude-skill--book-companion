@@ -1,5 +1,15 @@
 # *The Alchemist* by Paulo Coelho — originally in Portuguese
 
+## At a Glance
+
+- **Length:** roughly 38,000 words; about 160 pages in the standard HarperOne paperback.
+- **Reading time:** two to three hours at a comfortable pace.
+- **Structure:** a prologue, two unnamed parts, and an epilogue. The parts are broken into short unnumbered sections by ornamental dividers rather than chapters — the book moves in scenes.
+- **Difficulty:** very low. Spare, declarative fable prose; a small vocabulary; the cadence of a parable rather than a novel. No interiority to track, no archaisms, and the handful of Arabic and Spanish terms are translated in context. Closer to Aesop or *The Little Prince* than to anything from the Latin American magical-realism shelf next to it.
+- **Best read:** in one or two sittings. The parable rhythm sustains attention if you stay inside it; it dissolves if you put the book down for days.
+
+---
+
 ## Why This Book Is Worth Reading (or might not be)
 
 *The Alchemist* is worth reading because it is one of the very few books in the modern era that crossed the line from product to artifact — from a novel that people buy into a text that people press into the hands of strangers. It has sold somewhere north of 150 million copies in more than 80 languages since its first English edition in 1993, which makes it one of the most-translated works by any living author. That commercial fact is also a literary fact: a book does not get handed person-to-person across that many cultures unless something in it survives translation, summary, and meme-ification. Whatever you make of its argument, you are reading a piece of contemporary global folklore — a fable that has actually been absorbed into how millions of people talk about ambition, meaning, and what they owe their younger selves.
