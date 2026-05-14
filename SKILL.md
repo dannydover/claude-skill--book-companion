@@ -89,9 +89,13 @@ Skip this subsection entirely if the book was written in English.
 
 ### 4. A Note on the Illustrations
 
-Two or three sentences. Name the original illustrator(s), the edition that first contained them, and link to where readers can view the originals freely. Preferred archives, in rough order of preference for free public-domain access: Project Gutenberg, Wikimedia Commons, Bibliothèque nationale de France's Gallica, the Internet Archive, the British Library's digital collections.
+Two or three sentences naming the original illustrator(s) and the edition that first contained them. Then embed a small selection (two to four) of the original illustrations inline using markdown image syntax, sourcing direct image file URLs from public-domain archives. Preferred archives, in rough order of preference: Wikimedia Commons (use the direct `https://upload.wikimedia.org/...` file URL, not the page URL), Project Gutenberg, Bibliothèque nationale de France's Gallica, the Internet Archive, the British Library's digital collections.
 
-Link the images, don't describe them at length. The reader can click through.
+```
+![Brief descriptive caption](https://upload.wikimedia.org/wikipedia/commons/...)
+```
+
+Include a caption (the `alt` text) for each image that identifies the scene or subject. Do not describe the images in prose — let them speak for themselves. After the inline images, add a single line linking to the full archive for readers who want to browse the complete set.
 
 **Skip this section entirely if the book had no notable original illustrations.** Most modern novels don't. Don't pad with cover art or later illustrated editions — this section is specifically about illustrations that were part of the book's original presentation.
 
