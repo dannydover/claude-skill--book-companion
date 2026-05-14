@@ -1,8 +1,6 @@
 # book-companion
 
-A Claude skill that generates scholarly front matter for any book — the kind of orientation material found in high-quality hardcover editions of classic literature.
-
-Perfect for first-time readers who want historical context, author chronology, reading guidance, and original illustrations before diving into a new book.
+Before you read a book, Book Companion tells you what you need to know so you can get the most out of reading. It will teach you: why the given book is worth reading (or might not be), what modern audiences might miss that would have been obvious to the original audience, the context around the author when they wrote it, and tips on what illustrations to view and which translations to read.
 
 ## What It Does
 

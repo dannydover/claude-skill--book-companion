@@ -1,13 +1,13 @@
 ---
 name: book-companion
-description: Generates scholarly front matter for a named book — orientation for first-time readers, modeled on the contextual matter in high-quality hardcover editions of classic literature. Use whenever the user asks for a "book companion," "book-companion treatment," "front matter for [book]," a "reader's guide for [book]," "pre-reading context," wants to be "introduced to [book] before reading it," or asks for biographical, historical, publishing, or illustrator context for a specific book they have not yet started. Output: why the book has lasted, a chronology of the author's life beside world events, a select bibliography with translation notes for non-English originals, a note on original illustrations where applicable, and an essay on how the book was read at first publication versus today. Strictly no spoilers. Do NOT use for book reviews, plot summaries, character analysis, post-reading book-club agendas (use podcast-book-club), or any book the user has already finished.
+description: Before you read a book, Book Companion tells you what you need to know so you can get the most out of reading. It will teach you: why the given book is worth reading (or might not be), what modern audiences might miss that would have been obvious to the original audience, the context around the author when they wrote it, and tips on what illustrations to view and which translations to read. Use whenever the user asks for a "book companion," "book-companion treatment," "front matter for [book]," a "reader's guide for [book]," "pre-reading context," wants to be "introduced to [book] before reading it," or asks for biographical, historical, publishing, or illustrator context for a specific book they have not yet started. Strictly no spoilers. Do NOT use for book reviews, plot summaries, character analysis, post-reading book-club agendas (use podcast-book-club), or any book the user has already finished.
 ---
 
 # Book Companion
 
 ## What this skill produces
 
-Scholarly front matter for a single named book, written for a reader who has not yet started it. The model is the contextual material found in high-quality hardcover editions of classics — the stuff you read before chapter one, designed to load you up with context the original audience had for free.
+Everything a reader needs to know before opening a book, so they can get the most out of it. Before you read, Book Companion teaches you: why the book is worth reading (or might not be), what modern audiences miss that would have been obvious to the original audience, the context around the author when they wrote it, and guidance on illustrations and translations where relevant.
 
 Worked examples are in the `examples/` directory. Read at least one before writing your own. They set the bar for tone, depth, and the texture of the prose — match them.
 
