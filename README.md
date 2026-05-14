@@ -18,7 +18,11 @@ No spoilers. Evidence-based. Cites sources.
 
 ## Example Output
 
-See [*Around the World in Eighty Days* by Jules Verne](examples/verne-jules-around-the-world-in-eighty-days.md) for a complete worked example.
+Three complete worked examples in the `examples/` directory:
+
+- [*The Great Gatsby* by F. Scott Fitzgerald](examples/fitzgerald-f-scott-the-great-gatsby.md) — an English-language American canonical, no translation question, illustrations section skipped
+- [*Around the World in Eighty Days* by Jules Verne](examples/verne-jules-around-the-world-in-eighty-days.md) — a French novel read in English, with notable original illustrations and a misleading posthumous label worth pushing back on
+- [*The Alchemist* by Paulo Coelho](examples/coelho-paulo-the-alchemist.md) — a critically-dismissed contemporary bestseller, originally Portuguese, with a flopped first edition whose meaningful reception window came years later
 
 ## Installation
 
