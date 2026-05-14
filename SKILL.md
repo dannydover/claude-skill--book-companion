@@ -1,13 +1,13 @@
 ---
 name: book-companion
-description: Before you read a book, Book Companion tells you what you need to know so you can get the most out of reading. It will teach you: why the given book is worth reading (or might not be), what modern audiences might miss that would have been obvious to the original audience, the context around the author when they wrote it, and tips on what illustrations to view and which translations to read. Use whenever the user asks for a "book companion," "book-companion treatment," "front matter for [book]," a "reader's guide for [book]," "pre-reading context," wants to be "introduced to [book] before reading it," or asks for biographical, historical, publishing, or illustrator context for a specific book they have not yet started. Strictly no spoilers. Do NOT use for book reviews, plot summaries, character analysis, post-reading book-club agendas (use podcast-book-club), or any book the user has already finished.
+description: Before you read a book, Book Companion tells you what you need to know so you can get the most out of reading. It will teach you: the practical shape of the book and how to pace it, why the given book is worth reading (or might not be), what modern audiences might miss that would have been obvious to the original audience, the context around the author when they wrote it, and tips on what illustrations to view and which translations to read. Use whenever the user asks for a "book companion," "book-companion treatment," "front matter for [book]," a "reader's guide for [book]," "pre-reading context," wants to be "introduced to [book] before reading it," or asks for biographical, historical, publishing, or illustrator context for a specific book they have not yet started. Strictly no spoilers. Do NOT use for book reviews, plot summaries, character analysis, post-reading book-club agendas (use podcast-book-club), or any book the user has already finished.
 ---
 
 # Book Companion
 
 ## What this skill produces
 
-Everything a reader needs to know before opening a book, so they can get the most out of it. Before you read, Book Companion teaches you: why the book is worth reading (or might not be), what modern audiences miss that would have been obvious to the original audience, the context around the author when they wrote it, and guidance on illustrations and translations where relevant.
+Everything a reader needs to know before opening a book, so they can get the most out of it. Before you read, Book Companion teaches you: the practical shape of the book — length, structure, difficulty, pacing — why it's worth reading (or might not be), what modern audiences miss that would have been obvious to the original audience, the context around the author when they wrote it, and guidance on illustrations and translations where relevant.
 
 Worked examples are in the `examples/` directory. Read at least one before writing your own. They set the bar for tone, depth, and the texture of the prose — match them.
 
@@ -52,7 +52,19 @@ The document opens with a single `#` heading: the book title in italics, followe
 # *The Alchemist* by Paulo Coelho — originally in Portuguese
 ```
 
-### 1. Why This Book Is Worth Reading (or might not be)
+### 1. At a Glance
+
+A short bulleted block that orients the reader to the practical shape of the book before any interpretation begins: how long it is, how it's structured, how demanding the prose is, and how to pace it. Five bullets or fewer. Never skipped.
+
+- **Length:** approximate word count, total chapters (or parts, acts, sections — whatever the book actually uses), and page count in the recommended edition. Be specific — "about 67,000 words, 37 chapters, ~250 pages" beats "moderately long."
+- **Reading time:** a range at a comfortable pace. Round to half-hours; don't pretend to spurious precision.
+- **Structure:** chapter length and organizational form (acts, parts, books, letters, journal entries), and the original publication shape (serialized weekly, written as one volume) when that bears on the reading rhythm.
+- **Difficulty:** calibrated against a concrete reference point the reader is likely to know — "closer to Conan Doyle than to Hugo" beats "moderately accessible." Name what makes it harder or easier: prose density, archaic vocabulary, untranslated foreign phrases, philosophical or technical interludes, character density, demands on the reader's attention to interiority.
+- **Best read:** how to pace it — in short sittings, in one long burst, alongside annotations, aloud. Omit this bullet if there's no specific guidance worth giving.
+
+Don't editorialize about the book's quality here — that's the next section's job. Keep it factual and useful.
+
+### 2. Why This Book Is Worth Reading (or might not be)
 
 Two to four paragraphs structured as follows:
 
@@ -62,7 +74,7 @@ Two to four paragraphs structured as follows:
 
 **Cultural impact** (subsection `###`). Skip this subsection if the book left no notable trace outside itself. Include it when the book demonstrably changed something: coined a word or phrase now in common use, inspired a direct real-world response (a journey undertaken, a law passed, a scientific program launched), produced a widely-seen adaptation that shaped how the story is now remembered, or established a narrative form that spawned a recognizable genre. Be specific — name the film, the journalist, the phrase — and explain the mechanism of influence, not just the fact of it. Two to three paragraphs maximum.
 
-### 2. Then and Now: How This Book Was Read in [Original Publication Year]
+### 3. Then and Now: How This Book Was Read in [Original Publication Year]
 
 A multi-paragraph essay on what the original audience brought to the book that modern readers don't, and what's now invisible. This is the section that does the most work — it's where the reader gets the perceptual recalibration that the previous sections set up.
 
@@ -75,7 +87,7 @@ Cover the following where applicable (skip what doesn't apply, don't force all f
 
 This section is texture, not plot. Describe how the book was received, what the original audience expected from it, and what they would have noticed that we miss. Do not describe what happens.
 
-### 3. Writing the Book
+### 4. Writing the Book
 
 **Skip this section entirely if the circumstances of composition do not show strong, specific influence on the book's content, tone, or context.** Most books don't need it — a comfortable author writing in normal conditions adds nothing here. Include it only when the where, when, and what of writing visibly shaped what ended up on the page: a specific location whose atmosphere runs through the prose, a period of personal crisis whose pressure is audible in the sentences, a race against illness or deadline that explains the book's intensity or incompleteness.
 
@@ -87,7 +99,7 @@ When the section applies, cover in two to four paragraphs:
 
 Do not use this section to repeat material already covered in the chronology or "Then and Now." If the political context of composition belongs in "Then and Now," put it there. This section is specifically about the author's personal circumstances during the act of writing.
 
-### 4. Chronology of the Author's Life and Times
+### 5. Chronology of the Author's Life and Times
 
 A three-column markdown table with columns: `Year`, `[Author's Name]'s Life`, `The World`. Track the author's biographical milestones (birth, schooling, major publications, marriages, key relationships, death) in parallel with contemporaneous historical, literary, scientific, and cultural events.
 
@@ -104,7 +116,7 @@ Format:
 
 Don't overload world-events cells. Two or three items per row, separated by semicolons, is the right density.
 
-### 5. Select Bibliography
+### 6. Select Bibliography
 
 Two subsections:
 
@@ -118,7 +130,7 @@ Only if the book is in translation. Bulleted list with brief notes on which to p
 
 Skip this subsection entirely if the book was written in English.
 
-### 6. A Note on the Illustrations
+### 7. A Note on the Illustrations
 
 Two or three sentences naming the original illustrator(s) and the edition that first contained them. Then embed a small selection (two to four) of the original illustrations inline using markdown image syntax, sourcing direct image file URLs from public-domain archives. Preferred archives, in rough order of preference: Wikimedia Commons (use the direct `https://upload.wikimedia.org/...` file URL, not the page URL), Project Gutenberg, Bibliothèque nationale de France's Gallica, the Internet Archive, the British Library's digital collections.
 
@@ -140,6 +152,7 @@ Include a caption (the `alt` text) for each image that identifies the scene or s
 
 ## Section-skipping rules
 
+- "At a Glance" → never skipped. Every book has a shape worth flagging.
 - "Cultural Impact" subsection → skip if the book left no notable trace outside itself (no widely-used phrase coined, no significant adaptation, no direct real-world response, no genre it founded)
 - "Writing the Book" → skip if the circumstances of composition do not show strong, specific influence on the book's content, tone, or context
 - "A Note on the Illustrations" → skip if the book had no notable original illustrations

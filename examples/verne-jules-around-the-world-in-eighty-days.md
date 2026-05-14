@@ -1,5 +1,15 @@
 # *Around the World in Eighty Days* by Jules Verne — originally in French
 
+## At a Glance
+
+- **Length:** roughly 67,000 words; 37 chapters; about 250 pages in the recommended edition.
+- **Reading time:** four to five hours at a comfortable pace.
+- **Structure:** 37 short chapters of six to eight pages each, originally written for daily serial publication. Most chapters end on a hook designed to carry the reader to the next morning's installment.
+- **Difficulty:** low. Plain nineteenth-century narrative prose, a handful of untranslated French phrases (handled in any annotated edition), and no interiority to track. Closer to Conan Doyle than to Hugo or Dickens.
+- **Best read:** in short sittings, one or two chapters at a time. Reading it straight through dissolves the daily-cliffhanger rhythm Verne engineered, which is part of the book's pleasure.
+
+---
+
 ## Why This Book Is Worth Reading (or might not be)
 
 *Around the World in Eighty Days* has lasted because it captures a specific, irretrievable moment — the brief window in human history when the globe first became small enough to circle on a wager but still large enough to be genuinely strange. The novel arrived the instant trans-global travel became real: the First Transcontinental Railroad and the Suez Canal both opened in 1869, the Indian Railways linked up in 1870, and Verne was at his desk within the year. You can feel the giddiness of that window on every page. The book is a love letter to the timetable — to the idea that the world could be conquered not by force but by punctuality, steam, and a properly stamped passport.
