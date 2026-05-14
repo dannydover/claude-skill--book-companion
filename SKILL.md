@@ -52,9 +52,15 @@ The document opens with a single `#` heading: the book title in italics, followe
 # *The Alchemist* by Paulo Coelho
 ```
 
-### 1. Why This Book Is Worth Reading
+### 1. Why This Book Is Worth Reading (or might not be)
 
-One or two paragraphs. Specific, substantive, evidence-based. Explain what about this particular book has actually kept it alive — the texture of the prose, a specific historical moment it captured, a character who continues to puzzle, a structural innovation. Avoid generic praise ("a timeless masterpiece"), avoid hagiography, avoid spoilers. The reader should finish this section understanding why the book is worth their hours, not what happens in it.
+Two to four paragraphs structured as follows:
+
+**The case for the book.** One or two paragraphs. Specific, substantive, evidence-based. Explain what about this particular book has actually kept it alive — the texture of the prose, a specific historical moment it captured, a character who continues to puzzle, a structural innovation. Avoid generic praise ("a timeless masterpiece"), avoid hagiography, avoid spoilers. The reader should finish this section understanding why the book is worth their hours, not what happens in it.
+
+**The case against.** One paragraph beginning "It might not be for you if:" followed by honest reasons a reader might put the book down — lack of interiority, dated ideology, functional-rather-than-literary prose, a premise that requires patience, a genre mismatch. Calibrate against comparable books so the reader has a concrete frame. Do not moralize; describe. Not every book needs a long case against — if the honest answer is "most readers will enjoy this," say so briefly and move on.
+
+**Cultural impact** (subsection `###`). Skip this subsection if the book left no notable trace outside itself. Include it when the book demonstrably changed something: coined a word or phrase now in common use, inspired a direct real-world response (a journey undertaken, a law passed, a scientific program launched), produced a widely-seen adaptation that shaped how the story is now remembered, or established a narrative form that spawned a recognizable genre. Be specific — name the film, the journalist, the phrase — and explain the mechanism of influence, not just the fact of it. Two to three paragraphs maximum.
 
 ### 2. Chronology of the Author's Life and Times
 
@@ -122,6 +128,7 @@ This section is texture, not plot. Describe how the book was received, what the 
 
 ## Section-skipping rules
 
+- "Cultural Impact" subsection → skip if the book left no notable trace outside itself (no widely-used phrase coined, no significant adaptation, no direct real-world response, no genre it founded)
 - "A Note on the Illustrations" → skip if the book had no notable original illustrations
 - "Recommended English Translations" subsection → skip if the book was originally written in English
 - Within "Then and Now" → skip any of the four sub-topics that don't apply
@@ -132,7 +139,7 @@ Never replace a skipped section with filler. A shorter, accurate companion is be
 
 Two complete worked examples are in the `examples/` directory. Read at least one before drafting — they set the calibration for length, density, prose style, and table formatting. Read both if the book in question is unusual (translated, contested, late-discovered, etc.).
 
-- **`examples/verne-jules-around-the-world-in-eighty-days.md`** — the canonical case. An English-language reader's classic (originally French), with notable original illustrations, a sharply defined original publication moment, and a clear example of pushing back on a misleading posthumous label ("father of science fiction"). Use this to calibrate the standard structure with all five sections present.
+- **`examples/verne-jules-around-the-world-in-eighty-days.md`** — the canonical case. An English-language reader's classic (originally French), with notable original illustrations, a sharply defined original publication moment, a clear example of pushing back on a misleading posthumous label ("father of science fiction"), and a strong Cultural Impact subsection (Nellie Bly, the 1956 film, the title entering the language). Use this to calibrate the standard structure with all sections present.
 
 - **`examples/coelho-paulo-the-alchemist.md`** — the harder cases. Demonstrates: (1) skipping the illustrations section entirely, (2) handling a book whose meaningful reception window is not its original publication year (the 1988 first edition flopped; the relevant "then" is 1988–1995), (3) writing about a contested or critically-dismissed book without either fawning or sneering, and (4) handling a living author whose chronology runs to the present. The translation subsection is also unusually short here because there is essentially one English translation — model for not padding.
 
